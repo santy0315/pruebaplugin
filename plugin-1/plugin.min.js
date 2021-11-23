@@ -1,1 +1,0 @@
-!function(){"use strict";tinymce.PluginManager.add("plugin-1",function(n,t){n.ui.registry.addButton("plugin-1",{text:"plugin-1 button",onAction:function(){n.setContent("<p>content added from plugin-1</p>")}})})}();
